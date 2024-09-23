@@ -1,3 +1,3 @@
-# Codeforces-
-# Basic-CF-Problems
-# OCTANET_JUNE
+**CodeSync **
+
+Will be updated soon
